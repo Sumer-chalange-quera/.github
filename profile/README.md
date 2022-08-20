@@ -1,8 +1,13 @@
-## Hi there 👋
+## Welcome to "nobody's house" 👋
 
 
 <p align="center">
 <img src="https://media.giphy.com/media/14qb1Uhf40ndw4/giphy.gif" alt="This will display an animated GIF" >
+</p>
+
+<p>
+In the summer of 2022, I participated in a programming challenge.
+After that, I really liked the Quora website. That's why I want to share all my experiences and challenges on this site.
 </p>
 <!--
 
