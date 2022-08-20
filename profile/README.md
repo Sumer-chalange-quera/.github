@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+<p align="center">
+<img src="https://media.giphy.com/media/14qb1Uhf40ndw4/giphy.gif" alt="This will display an animated GIF" >
+</p>
 <!--
 
 **Here are some ideas to get you started:**
